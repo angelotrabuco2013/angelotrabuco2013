@@ -10,3 +10,6 @@
 I will also fork some random repos to modify it.
 
 As i do <s>not</s> have paint.net installed on this machine, my PFP will be kept as an <a href="https://en.wikipedia.org/wiki/Identicon">identicon</a>.
+
+## 📊 Stats
+![Metrics](/github-metrics.svg)
