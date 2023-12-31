@@ -13,3 +13,4 @@ As i do <s>not</s> have paint.net installed on this machine, my PFP will be kept
 
 ## 📊 Stats
 ![Metrics](/github-metrics.svg)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=angelotrabuco2013\&show_icons=true\&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage)
