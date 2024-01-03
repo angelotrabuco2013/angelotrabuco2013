@@ -3,9 +3,6 @@
 > I have now came back from a huge hiatus. I will now make more repos!
 
 > [!NOTE]  
-> 2023 is now officially over! Please follow me if you wish to get updates. Happy new year!
-
-> [!NOTE]  
 > My account has officially reached 100 contributions! Wow, such a milestone.
 
 👋 Thanks for visiting my personal profile! More repositories are soon to come...
