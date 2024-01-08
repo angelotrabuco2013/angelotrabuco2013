@@ -1,6 +1,6 @@
 # angelotrabuco2013
 > [!IMPORTANT]  
-> I have now came back from a huge hiatus. I will now make more repos!
+> My account stopped receiving contributions due to me being in a different house, but today i am now active. Sorry for the inconvenience.
 
 > [!NOTE]  
 > My account has officially reached 100 contributions! Wow, such a milestone.
