@@ -3,9 +3,9 @@
 **_I'm the powerful forker._**
 
 ## Milestones
-1 contribution: December 14th, 2023
-100 contributions: January 2nd, 2024
-200 contributions: January 17th, 2024
+1 contribution: December 14th, 2023 <br/>
+100 contributions: January 2nd, 2024 <br/>
+200 contributions: January 17th, 2024 <br/>
 
 ## 📊 Stats
 ![Metrics](/github-metrics.svg)
