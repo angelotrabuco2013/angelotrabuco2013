@@ -1,4 +1,4 @@
-## Welcome to A.S.T!
+## Welcome to AST!
 
 **_I'm the powerful forker._**
 
