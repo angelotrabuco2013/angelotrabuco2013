@@ -13,10 +13,10 @@ If you want to see my latest videos on Odysee, please follow it!
 * **February 14**: To celebrate YouTube's 19th anniversary, i will be uploading stuff to Odysee until March 1st.<br/>
 * **March 20**: More projects start development.<br/>
 * **March 25**: The Remix project will be discontinued.<br/>
-* **March 27**: The Malware11 project will end.<br/>
+* **March 26**: The Malware11 project will end.<br/>
+* **March 30**: The Malware11 VM files for VMWare Workstation 17.x will be uploaded, discontinuing the project.<br/>
 * **April 2**: Starting this date, my old website will shut down.<br/>
 * **April 3**: The new website will start development at this date, with the design being MDN instead of Water.css.<br/>
-* **April 5**: The Malware11 VM files for VMWare Workstation 17.x will be uploaded, discontinuing the project.<br/>
 * **April 7**: TMake will be discontinued.<br/>
 * **April 9**: Unfinished projects will be taken down from the GitHub platform.<br/>
 * **April 15**: Support for Penguin OS will be discontinued.<br/>
