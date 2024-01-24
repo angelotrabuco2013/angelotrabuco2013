@@ -9,7 +9,7 @@
             <section>
                 <h1 class="field">
                     <img class="avatar" src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAM4AAADOCAIAAAD5faqTAAAACXBIWXMAAAsTAAALEwEAmpwYAAADWklEQVR4nO3cUW7dMAwEQN//0lugKPpRpEme40dJ5MwFIi1XNJICvS4AAAAAAAAAAAAAAAAAAAAAAAAAAAAAZkqy+gjMkN9Wn4IZPVM16qqmbRT1TNWoq5q2UdQzbaOuZxYbD/unW9rGW3xYLIuN533YKouNh31SKYuNJ33SJ4uNx3xZJm3jAd+skc8oP/XNDlls/MhLBbLYuO+l9lhs3HSjOhYbd9zojcXGy26XRtu4yuriM0pRVyw26opisVHUEouNuopYbBT1w2KjrhzaRl0tfEZZULX4Pz54ayFUjaI2WGzUVcFio6gHFht1JdC20YrHH7+KjrWwavGHjzmWDD6qNtCSqcdim2bhyGOxjbJw3rHY5lg+7Kw+AEV2GHM2OAMjNkr2OAYjBpxtTkLz6Wan3tN8tNnsPLSda/ZrP22Hml0Pxk07jzMbn41WmyN7H49Wg8z2J6TJFHPCe6DJCHPIOTl+fjnnVXD88HLagfnjxLHlwDNPd+iGyJnHnuvogeXYk0909LRy8juZpcGocvj5p2gwp5z/WvprM6R0uUhbncaTRnfpptkmSK/r9NFyMGl3ow5aTiUd38/ZGo8kTe91qsbzaPyKztN+GOl+wWNMGEMG3HF3Q158ZlxzX6MGkDE33dHYqqX7ZfcyMPoMu+8uBuaeea9rvbGhZ+rFl5kcdwbfvdrwl53Z1y8l6Khacc/GvukIQcRL2nYh35qqRduE+1bRtoJk3/UzThOZvDVTVftLLM/Ts/+RzJO83U8I5zGi/JLF9gw5fslrfIAQv0lQP2WlfZ+s7vNSXyKu+zzTV0nsDm/0BqGJrE78m4q8alhswqqjbXeSeutIGosMX8pI1W4T42sZ3U+aS5LeYhWLTTR1fCLkUsRiE0odbfsskcJBjBDZfpiFqj1OvB9n8XzSXBL25qpYbCKoM/3T4bWVGR316MuvMDfwoddeamLmc1/YUhNjH3fhbWRU8hPf1jYyKvxBV91ShuQ/61VtKRNGMOKSJ0j7QTS/3lHSeBb9X9JR0ngcbS92rLScSOc3dKy0HErDK7WQZnPp+XpaSKfRtLpMR2kzoH9uwuauQ63OjTuuE926KYtdx1mdGPet7g4AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAFeZX5HP6CMah7PDAAAAAElFTkSuQmCC" width="20" height="20" />
-                    <span>A.S.T.</span>
+                    <span>AST</span>
                 </h1>
                 <div class="row">
                     <section>
@@ -69,7 +69,7 @@
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                 <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
                             </svg>
-                            235 Commits
+                            236 Commits
                         </div>
                         <div class="field">
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
@@ -206,7 +206,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 24 Jan 2024, 18:23:05  with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 24 Jan 2024, 18:24:15  with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
