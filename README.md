@@ -2,6 +2,9 @@
 
 **_I'm the powerful forker._**
 
+## 📢 Announcements
+**January 24**: Starting in February, i will be retiring from using X. I will be sticking to Mastodon, which is a powerful alternative to X.
+
 ## 🏆 Milestones
 1 contribution: December 14th, 2023 <br/>
 100 contributions: January 2nd, 2024 <br/>
