@@ -2,6 +2,10 @@
 
 **_I'm the powerful forker/stargazer._**
 
+**_I collect malware via my own malware dataset._**
+
+**_We have a small amount of social media accounts for you to follow._**
+
 If you want to see my latest videos on Odysee, please follow it! (<https://odysee.com/@ASTGroup:7>)
 
 ## Announcements/Events
