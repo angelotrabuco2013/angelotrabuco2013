@@ -6,7 +6,7 @@
 
 **_We have a small amount of social media accounts for you to follow._**
 
-**Time ago since Christmas**: 1 month, 3 days ago
+**Time ago since Christmas**: 1 month, 4 days ago
 
 If you want to see my latest videos on Odysee, please follow it! (<https://odysee.com/@ASTGroup:7>)
 
