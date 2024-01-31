@@ -12,10 +12,10 @@ If you want to see my latest videos on Odysee, please follow it! (<https://odyse
 
 ## Announcements/Events
 ### Former/Current
-* **Jan 24**: Starting in February 3 of this year, i will be (officially) retiring from X. I will be sticking to Mastodon, which is a powerful alternative to X.
+* **Jan 24**: Starting in February 10 of this year, i will be (officially) retiring from X. I will be sticking to Mastodon, which is a powerful alternative to X.
 * **Jan 27**: The Malware11 project was begun, before being scrapped.<br/>
 ### Upcoming
-* **Feb 3**: I will offically retire from X.<br/>
+* **Feb 10**: I will offically retire from X.<br/>
 * **Feb 14**: To celebrate YouTube's 19th anniversary, i will be uploading stuff to Odysee until March 1st.<br/>
 * **Mar 20**: More projects will start development.<br/>
 * **Mar 25**: The Remix project will be discontinued.<br/>
