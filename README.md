@@ -39,6 +39,9 @@ If you want to see my latest videos on Odysee, please follow it! (<https://odyse
 ### Upcoming
 * **500 contributions**: Sometime in late-Feburary <br/>
 
+## Booleans
+* **2FA enabled?** true
+
 ## Statistics
 ![Metrics](/github-metrics.svg)
 ![AST's GitHub stats](https://github-readme-stats.vercel.app/api?username=angelotrabuco2013\&show_icons=true\&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage)
