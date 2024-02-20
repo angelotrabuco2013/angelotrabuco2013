@@ -39,6 +39,7 @@ If you want to see my latest videos on Odysee, please follow it! (<https://odyse
 * **420 contributions**: Feburary 20th, 2024 (420 is a funny number) <br/>
 ### Upcoming
 * **500 contributions**: Sometime in late-Feburary <br/>
+* **1000 contributions**: March 2024? <br/>
 
 ## Booleans
 * **2FA enabled?** true
