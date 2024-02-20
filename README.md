@@ -36,6 +36,7 @@ If you want to see my latest videos on Odysee, please follow it! (<https://odyse
 * **200 contributions**: January 17th, 2024 <br/>
 * **300 contributions**: Feburary 10th, 2024 <br/>
 * **400 contributions**: Feburary 12th, 2024 (400 contributions in 2 days?) <br/>
+* **420 contributions**: Feburary 20th, 2024 (420 is a funny number) <br/>
 ### Upcoming
 * **500 contributions**: Sometime in late-Feburary <br/>
 
