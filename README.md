@@ -27,7 +27,7 @@ If you want to see my latest videos on Odysee, please follow it! (<https://odyse
 * **May 25**: I will retire from GitHub in late-June. My bonus projects will be released daily until June 29th.<br/>
 * **Jun 29**: I will no longer be developing extra projects on GitHub.<br/>
 * **Aug 1**: The AST Group will cease operations in late-October.<br/>
-* **Oct 27**: The AST Group will cease operations, and all social media accounts will close (except for YouTube, until late-October).<br/>
+* **Oct 27**: The AST Group will cease operations, and all social media accounts will close (except for YouTube, until early-November).<br/>
 
 ## Milestones
 ### Former/Current
