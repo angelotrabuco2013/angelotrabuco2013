@@ -1,3 +1,6 @@
+> [!IMPORTANT]  
+> Site went down for maintenance today (Tuesday, Feburary 27, 2024, 12 o'clock UTC). Should be back in Feburary 29, 2024, 6 o'clock UTC (2 days left).
+
 ## Welcome to AST!
 
 **_I'm the powerful forker/stargazer._**
@@ -41,7 +44,7 @@ If you want to see my latest videos on Odysee, please follow it! (<https://odyse
 * **500 contributions**: Sometime in late-Feburary <br/>
 * **1000 contributions**: March 2024? <br/>
 
-## Booleans
+## Short Questions
 * **2FA enabled?** true
 
 ## Statistics
