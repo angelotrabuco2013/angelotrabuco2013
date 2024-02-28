@@ -1,5 +1,5 @@
 > [!IMPORTANT]  
-> Site went down for maintenance today (Tuesday, Feburary 27, 2024, 12 o'clock UTC). Should be back in Feburary 29, 2024, 6 o'clock UTC (2 days left).
+> Site went down for maintenance yesterday (Tuesday, Feburary 27th, 2024, 12 o'clock UTC). Should be back in Feburary 29th, 2024, 6 o'clock UTC (1 day left).
 
 ## Welcome to AST!
 
@@ -14,9 +14,8 @@ If you want to see my latest videos on Odysee, please follow it! (<https://odyse
 
 ## Announcements/Events
 ### Former/Current
-* **Jan 27**: The Malware11 project originally began, before being scrapped.<br/>
+* **Jan 27**: The Malware11 project originally begun, before being scrapped.<br/>
 ### Upcoming
-* **Feb 14**: To celebrate YouTube's 19th anniversary, i will be uploading stuff to Odysee until March 1st.<br/>
 * **Mar 20**: More projects will start development.<br/>
 * **Mar 25**: The Remix project will be discontinued.<br/>
 * **Apr 2**: Starting this date, my old website will shut down.<br/>
