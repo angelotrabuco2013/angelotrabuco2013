@@ -1,5 +1,5 @@
 > [!IMPORTANT]  
-> Site went down for maintenance yesterday (Tuesday, Feburary 27th, 2024, 12 o'clock UTC). Should be back in Feburary 29th, 2024, 6 o'clock UTC (1 day left).
+> Our site is now back online after a 3-day long maintenance period. We sincerely apologize for the inconvenience caused, and have a nice new month!
 
 ## Welcome to AST!
 
