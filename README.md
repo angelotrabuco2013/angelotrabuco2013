@@ -1,6 +1,3 @@
-> [!IMPORTANT]  
-> Our site is now back online after a 3-day long maintenance period. We sincerely apologize for the inconvenience caused, and have a nice new month!
-
 ## Welcome to AST!
 
 **_I'm the powerful forker/stargazer._**
