@@ -20,13 +20,17 @@ If you want to see my latest videos on Odysee, please follow it! (<https://odyse
 * **Apr 7**: TMake will be discontinued.<br/>
 * **Apr 9**: Unfinished projects will be taken down from the GitHub platform.<br/>
 * **Apr 15**: Support for Penguin OS will be discontinued.<br/>
-* **Apr 24/23**: <q>Me at the zoo</q> will now be uploaded to Odysee to celebrate its 19th anniversary.<br/>
 * **Apr 25**: FrontRub Cloud, a mod of the MEGA client, will start development.<br/>
 * **May 7**: FrontRub Cloud will officially release, but it must be installed and configured.<br/>
-* **May 25**: I will retire from GitHub in late-June. My bonus projects will be released daily until June 29th.<br/>
+* **May 25**: I will retire from GitHub in late-June. My extra projects will be released daily until June 29th.<br/>
 * **Jun 29**: I will no longer be developing extra projects on GitHub.<br/>
-* **Aug 1**: The AST Group will cease operations in late-October.<br/>
-* **Oct 27**: The AST Group will cease operations, and all social media accounts will close (except for YouTube, until early-November).<br/>
+* **Aug 27**: The AST Group will cease operations in January of next year.
+* **Sep 1**: A month and a few days left until Halloween!<br/>
+* **Oct 14**: 3 months until the 1st anniversary of the AST Group.<br/>
+* **Nov 29**: My Christmas presents for 2024 will be the Samsung Galaxy S5, candies and other stuff.<br/>
+* **Dec 14**: 1st anniversary of this account.<br/>
+* **Dec 31**: 2025 New Year celebrations will begin at this date.<br/>
+* **Jan 1, 2025**: The AST Group will be officially dissolved at this date.
 
 ## Milestones
 ### Former/Current
@@ -37,7 +41,7 @@ If you want to see my latest videos on Odysee, please follow it! (<https://odyse
 * **400 contributions**: Feburary 12th, 2024 (400 contributions in 2 days?) <br/>
 * **420 contributions**: Feburary 20th, 2024 (420 is a funny number) <br/>
 ### Upcoming
-* **1000 contributions**: March 2024? <br/>
+* **1000 contributions**: In 1 month and 2 days <br/>
 
 ## Short Questions
 * **2FA enabled?** true
