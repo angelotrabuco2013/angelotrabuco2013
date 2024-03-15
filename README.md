@@ -26,7 +26,7 @@ If you want to see my latest videos on Odysee, please follow it! (<https://odyse
 * **Jun 29**: I will no longer be developing extra projects on GitHub.<br/>
 * **Aug 27**: The AST Group will cease operations in January of next year.
 * **Sep 1**: A month and a few days left until Halloween!<br/>
-* **Oct 14**: 3 months until the 1st anniversary of the AST Group.<br/>
+* **Oct 14**: 2 months until the 1st anniversary of the AST Group.<br/>
 * **Nov 29**: My Christmas presents for 2024 will be the Samsung Galaxy S5, candies and other stuff.<br/>
 * **Dec 14**: 1st anniversary of this account.<br/>
 * **Dec 31**: 2025 New Year celebrations will begin at this date.<br/>
